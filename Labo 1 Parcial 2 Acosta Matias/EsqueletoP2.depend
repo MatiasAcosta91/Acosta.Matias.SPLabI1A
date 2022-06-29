@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1656370599 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1656366704 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1655908099 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\linkedlist.h
+
+1656366898 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+
+1656366898 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\utn.h
+
+1656370579 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1656370579 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\menu.h
+
+1656370888 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+
+1656370889 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\controller.h
+
+1656370889 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1656370889 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\esqueletop2\parser.h
+
+1656443060 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"ePelicula.h"
+	"parser.h"
+	"LinkedList.h"
+	"controller.h"
+
+1656441493 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\controller.h
+
+1656429975 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656376540 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\linkedlist.h
+
+1656444987 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"ePelicula.h"
+	"controller.h"
+	"time.h"
+
+1656432749 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\menu.h
+
+1656435508 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"ePelicula.h"
+
+1656427662 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\parser.h
+	"LinkedList.h"
+
+1656366898 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+
+1656366898 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\utn.h
+
+1656432681 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1656445279 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\epelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ePelicula.h"
+	"LinkedList.h"
+	<ctype.h>
+
+1656441378 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\practica para segundo parcial\intento 3\epelicula.h
+	"LinkedList.h"
+
+1656443060 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"ePelicula.h"
+	"parser.h"
+	"LinkedList.h"
+	"controller.h"
+
+1656432749 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\menu.h
+
+1656441378 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\epelicula.h
+	"LinkedList.h"
+
+1656376540 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\linkedlist.h
+
+1656427662 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\parser.h
+	"LinkedList.h"
+
+1656441493 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\controller.h
+
+1656445279 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\epelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ePelicula.h"
+	"LinkedList.h"
+	<ctype.h>
+
+1656366898 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\utn.h
+
+1656429975 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656444987 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"ePelicula.h"
+	"controller.h"
+	"time.h"
+
+1656432681 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1656435508 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"ePelicula.h"
+
+1656366898 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\intento 3\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+
+1656510361 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"eMovie.h"
+	"parser.h"
+	"LinkedList.h"
+	"controller.h"
+
+1656513211 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\menu.h
+
+1656441378 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\epelicula.h
+	"LinkedList.h"
+
+1656508907 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\linkedlist.h
+
+1656513368 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\parser.h
+	"LinkedList.h"
+
+1656511994 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\controller.h
+
+1656445279 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\epelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ePelicula.h"
+	"LinkedList.h"
+	<ctype.h>
+
+1656366898 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\utn.h
+
+1656508845 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656432681 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1656510390 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"eMovie.h"
+
+1656508243 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+
+1656511464 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"eMovie.h"
+	"controller.h"
+	"time.h"
+
+1656508845 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656508907 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\linkedlist.h
+
+1656432681 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1656432749 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\menu.h
+
+1656508243 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+
+1656366898 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\utn.h
+
+1656510341 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"eMovie.h"
+	"controller.h"
+	"time.h"
+
+1656510417 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\emovie.h
+	"LinkedList.h"
+
+1656441493 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\controller.h
+
+1656510390 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"eMovie.h"
+
+1656427662 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\parser.h
+	"LinkedList.h"
+
+1656510361 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"eMovie.h"
+	"parser.h"
+	"LinkedList.h"
+	"controller.h"
+
+1656510532 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias - copia\emovie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"eMovie.h"
+	"LinkedList.h"
+	<ctype.h>
+
+1656513159 d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\emovie.h
+	"LinkedList.h"
+
+1656510532 source:d:\facultad\primer año\primer cuatrimestre 2022\programacion uno\codeblock\practica parciales\git parcial 2 labo y tp4\labo 1 parcial 2 acosta matias\emovie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"eMovie.h"
+	"LinkedList.h"
+	<ctype.h>
+
